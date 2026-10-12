@@ -1,8 +1,8 @@
-# Python-AI in Game Searching and Reinforcement Learning
+# Python for Artificial Intelligence
 
 AI Search, Game Theory & Reinforcement Learning
 
-A collection of code, experiments, and examples related to Artificial Intelligence in search, game theory, and reinforcement learning.
+A collection of code, experiments, and examples related to Artificial Intelligence in search, game theory, reinforcement learning, and other advanced concepts.
 
 Most of the materials are stored in Jupyter Notebooks, allowing algorithms and concepts to be explored alongside explanations, experiments, and results.
 
@@ -89,6 +89,20 @@ Explore → Decide → Act → Observe → Learn
 
 This makes them particularly useful for games, robotics, autonomous systems, planning, optimization, simulations, and multi-agent systems.
 
+## Other Concepts
+
+### Machine Learning
+
+Machine Learning (ML) enables AI systems to learn patterns from data and make predictions or decisions without explicitly programming every rule. Topics include supervised learning, unsupervised learning, model evaluation, and common algorithms such as Decision Trees, Random Forests, and Neural Networks.
+
+### Deep Learning
+
+Deep Learning uses multi-layer neural networks to learn complex patterns from large amounts of data. Examples include image classification, computer vision, speech recognition, and deep neural network architectures such as CNNs, RNNs, and Transformers.
+
+### Natural Language Processing (NLP)
+
+Natural Language Processing (NLP) focuses on enabling computers to process, understand, and generate human language. Topics include text preprocessing, sentiment analysis, text classification, word embeddings, language models, and Large Language Models (LLMs).
+
 ### Repository Contents
 
 This repository primarily contains:
@@ -104,4 +118,4 @@ This repository primarily contains:
 
 The implementations may range from classical AI algorithms to more modern approaches involving reinforcement learning.
 
-More code, experiments, and topics may be added as the study of AI search, game theory, and reinforcement learning continues.
+More code, experiments, and topics may be added as the study of AI in these fields continues.
